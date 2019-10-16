@@ -17,7 +17,7 @@ const FlatList = (props) => {
   };
 
   return (
-    <div className="className">
+    <div className="flat-list">
       {renderList()}
     </div>
   );
